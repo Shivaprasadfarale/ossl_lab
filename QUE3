@@ -1,0 +1,13 @@
+Cutter: A Reverse Engineering Platform
+Cutter is a powerful, free, and open-source reverse engineering platform designed to make the process of analyzing and understanding binary files more accessible. It is built on top of the rizin framework, which provides a robust foundation for disassembling, decompiling, and debugging binaries.
+
+Key Features:
+User-Friendly Interface: Cutter offers a graphical user interface (GUI) that simplifies the complex tasks involved in reverse engineering.
+Cross-Platform Support: It is available on multiple platforms, including Windows, macOS, and Linux.
+Extensibility: Users can extend Cutter’s functionality through plugins and scripts.
+Integration with rizin: Leveraging the powerful rizin framework, Cutter provides advanced features for binary analysis.
+Main Components:
+Disassembler: Converts machine code into human-readable assembly code.
+Decompiler: Transforms binary code into high-level language code, making it easier to understand.
+Debugger: Allows users to step through code execution, set breakpoints, and inspect memory.
+Hex Editor: Provides a detailed view of the binary data.
